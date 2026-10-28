@@ -1,6 +1,6 @@
 /* Gerado por ferramentas/site.js (repositório Fardamento). Não editar aqui. */
 (function () {
-  var EXEC = "", n = 0;
+  var EXEC = "https://script.google.com/macros/s/AKfycbwQUgQzxBQI1rSR4hAdRBviGxV-fTLJZo4FJrauhITJMUDa7fuxHD5rZ0K0P1fMOALu/exec", n = 0;
   function perguntar(cb) {
     if (!EXEC) return cb(null);
     var nome = 'fardamentoEstado_' + (++n) + '_' + Date.now(), s = document.createElement('script'), feito = false;
